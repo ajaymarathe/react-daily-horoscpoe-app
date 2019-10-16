@@ -7,6 +7,8 @@ import * as serviceWorker from './serviceWorker';
 import "bootcatch-themes/dist/angular-material/bootstrap.min.css";
 import "bootstrap/dist/js/bootstrap.min.js";
 
+import 'material-icons/iconfont/material-icons.css';
+
 ReactDOM.render(<App />, document.getElementById('root'));
 
 // If you want your app to work offline and load faster, you can change
